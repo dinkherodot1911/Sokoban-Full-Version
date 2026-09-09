@@ -239,3 +239,6 @@ This repository serves as the official landing page for Sokoban. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sokoban today!**
+
+---
+**Last updated:** 2026-09-09 13:17:09 UTC
