@@ -241,4 +241,4 @@ This repository serves as the official landing page for Sokoban. The software is
 **Get the most recent version of Sokoban today!**
 
 ---
-**Last updated:** 2026-09-19 00:53:40 UTC
+**Last updated:** 2026-09-19 05:21:27 UTC
